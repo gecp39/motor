@@ -19,7 +19,7 @@
 #  Module name          : mod1_test
 #  Module description   : module1 testing program
 #  Author               : Joe Wu
-#  Created at           : 2006/08/08
+#  Created at           : 2017/04/23
 #  $History:$
 #
 #---------------------------------------------------------------------
